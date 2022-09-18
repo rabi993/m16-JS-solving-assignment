@@ -13,4 +13,5 @@ return totalBrick;
 var brickPerFeet=1000;
 var kotoTolaBuilding = 21;
 var result = brickCalculator(brickPerFeet , kotoTolaBuilding);
-console.log(result);
+
+console.log("Total bricks = ",result," piece");
